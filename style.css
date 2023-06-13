@@ -276,34 +276,34 @@ html {
     overflow-y: hidden;
   }
   
-  .iphone-14 {
-    height: 695px;
+  .macbook-air {
+    height: 825px;
     width: 100%;
+    
   }
   
-  .iphone-14 {
-    background-image: url(Images/iphone-14.webp);
+  .macbook-air{
+    background-image: url(Images/macbook-air4.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
+    
   }
   
   .title-iphone {
-    padding-top: 110px;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
+    padding-top: 250px;
+    
   }
   
   .title-iphone h2 {
-    margin: 0;
+    margin-left: 900px;
+    margin-bottom: 10px;
     font-size: 50px;
   }
   
   .title-iphone h3 {
-    margin-top: 2px;
-    margin-bottom: 16px;
+    margin-top: auto;
+    margin-left: 850px;
     font-size: 28px;
     font-weight: normal;
   }
